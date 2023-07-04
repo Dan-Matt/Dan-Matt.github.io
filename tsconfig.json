@@ -21,8 +21,6 @@
       "jsx": "react-jsx",
       "strictPropertyInitialization": false
     },
-    "include": [
-      "src"
-, "index.tsx"    ]
+    "include": ["src"]
   }
   
